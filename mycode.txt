@@ -1,3 +1,1 @@
-hello
-myself Pradeep.U.H
-I AM form computer science branch
+it is mycode text file for git
